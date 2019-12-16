@@ -1,0 +1,18 @@
+{
+  "name": "nr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./run.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@newrelic/native-metrics": "^5.0.0",
+    "aws-sdk": "^2.590.0",
+    "newrelic": "^6.2.0",
+    "uuid": "^3.3.3"
+  }
+}
